@@ -1,13 +1,21 @@
 @import "./global/header.css";
 @import "./utilidades/tipografia.css";
-@import './utilidades/cores.css';
+@import "./utilidades/cores.css";
 @import "./global/global.css";
 
-
 /* Home */
-@import './home/introducao.css';
+@import "./home/introducao.css";
+/* Utilidades */
+@import "./utilidades/componentes.css";
 
-@import './utilidades/componentes.css'
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
 
+/* Tecnologia */
+@import './home/tecnologia.css';
 
+/* parceiros */
+@import './home/parceiros.css';
 
+/* depoimento */
+@import './home/depoimento.css'
