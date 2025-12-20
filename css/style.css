@@ -18,4 +18,7 @@
 @import './home/parceiros.css';
 
 /* depoimento */
-@import './home/depoimento.css'
+@import './home/depoimento.css';
+
+/* seguros */
+@import "./seguros/seguros.css";
