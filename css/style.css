@@ -9,9 +9,6 @@
 /* Utilidades */
 @import "./utilidades/componentes.css";
 
-/* Bicicletas */
-@import "./bicicletas/bicicletas-lista.css";
-
 /* Tecnologia */
 @import "./home/tecnologia.css";
 
@@ -21,11 +18,15 @@
 /* depoimento */
 @import "./home/depoimento.css";
 
-/* seguros */
-@import "./seguros/seguros.css";
-
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
 
+/* Bicicleta */
+@import './bicicleta/bicicleta.css';
+
+/* seguros */
+@import "./seguros/seguros.css";
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
 
